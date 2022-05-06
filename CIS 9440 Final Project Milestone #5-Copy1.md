@@ -50,7 +50,7 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of (x) Facts and (y) Dimensions
 
 Use correct file path here to show picture of dimensional model...
-https://github.com/WanmeiHe/CIS-9440-Final-Project/issues/1
+![Dimensional Model](https://user-images.githubusercontent.com/70614026/167228651-d58e396c-b6dd-4fab-8412-7ae45f3b1b11.png)
 
 This project's Kimball Bus Matrix:
 
