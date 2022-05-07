@@ -63,24 +63,25 @@ This project's Kimball Bus Matrix:
 
 List of Visualizations for each KPI:
 1. Bar Chart for Average annual ridership per station
-<img width="542" alt="KPI #1- Annual Ridership Top25" src="https://user-images.githubusercontent.com/70614026/167229404-7339075f-3084-4dfd-b212-b4a1be19611d.png">
+<img width="542" alt="1  Annual Ridership Top 25" src="https://user-images.githubusercontent.com/70614026/167271245-b0e73696-3665-4e02-9110-de0d87268d24.png">
+
 
 2. Bar Chart - Compariosn of Average daily ridership per station based on weekdays vs Weekends
-<img width="545" alt="KPI #2 - Average Weekdays Top 25" src="https://user-images.githubusercontent.com/70614026/167229527-3713f00d-c657-4706-a8bc-d7a3f5b1c2ad.png">
-<img width="545" alt="KPI #2 - Average Weekends Top 25" src="https://user-images.githubusercontent.com/70614026/167229542-343be30f-2564-4d8b-baf7-39280e59a2ee.png">
+<img width="545" alt="2  Average Weekdays Top 25" src="https://user-images.githubusercontent.com/70614026/167271260-053180b7-80e4-440c-ae49-8e3c5f1c7544.png">
+<img width="545" alt="2   Average Weekends Top 25" src="https://user-images.githubusercontent.com/70614026/167271274-5908c7ab-f263-47ac-9550-b71ce63ef33b.png">
 
 
-3. Packed bubble chart for Total number of subway stations by borough
-<img width="249" alt="KPI# 3 - Subway Station by Borough" src="https://user-images.githubusercontent.com/70614026/167229567-5e0ec647-ab64-437b-a08a-4041fea2355e.png">
+3. Stacked chart for Total number of subway stations by borough
+<img width="249" alt="3  Incidents cases by Borough and Category in 2020" src="https://user-images.githubusercontent.com/70614026/167271287-33a398ba-de83-4833-b34a-2d676bb1eb11.png">
+
 
 
 4. Packed bubble chart for Total accidents/injuries case by category by borough in 2020
-<img width="354" alt="KPI#4 - Incidents cases by Borough in 2020" src="https://user-images.githubusercontent.com/70614026/167229591-cbafa31c-1e19-476b-9e7b-a8883319dd59.png">
-
+<img width="344" alt="4  Subway Station by Borough" src="https://user-images.githubusercontent.com/70614026/167271302-cda37da8-f91e-4f71-b8cf-8757b56fccd4.png">
 
 
 5. Bar Chart for The number of subway lines per station
-<img width="668" alt="KPI#5 - Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167229602-43b72f06-020f-412d-95a2-b2d164f5eb8a.png">
+<img width="631" alt="5  Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167271334-a9d2e581-b4b0-4a0d-b6ae-ef12118d9302.png">
 
 
 BI Application Wireframe design:
@@ -93,17 +94,19 @@ Picture of final Dashboard:
 ## Use correct file path here to show picture of Dashboard:
 
 Dashboard #1 
-![Dashboard #1](https://user-images.githubusercontent.com/70614026/167229699-ddd2549f-4cfc-42e8-b70b-a431b09121c6.PNG)
+![Dashboard 1 ](https://user-images.githubusercontent.com/70614026/167271365-0f7e2139-1913-47ee-84f4-e0cc691fa901.png)
+
 
 Dashboard #2
-![Dashboard #2](https://user-images.githubusercontent.com/70614026/167229713-aded1cae-cb46-4e22-b3c0-6823a642980c.png)
+![Dashboard 2](https://user-images.githubusercontent.com/70614026/167271378-014ec20e-e51e-4c85-9aa2-bbce778e97d3.png)
+
 
 
 ### Deployment
 
 The project was deployed on Tableau Public: (link here)
 
-Dashboard 1: https://public.tableau.com/app/profile/wanmei.he/viz/Milestone4Dashboard1/Dashboard1?publish=yes
+Dashboard 1: https://public.tableau.com/app/profile/wanmei.he/viz/Milestone4Dashboard2/Dashboard1?publish=yes
 
 Dashboard 2: https://public.tableau.com/app/profile/wanmei.he/viz/Milestone4Dashboard2/Dashboard2?publish=yes
 
