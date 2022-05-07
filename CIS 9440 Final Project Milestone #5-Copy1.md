@@ -54,7 +54,8 @@ Use correct file path here to show picture of dimensional model...
 
 This project's Kimball Bus Matrix:
 
-![Kimball%20BUS%20Matrix.PNG](attachment:Kimball%20BUS%20Matrix.PNG)
+<img width="589" alt="Kimball BUS Matrix" src="https://user-images.githubusercontent.com/70614026/167228719-29e4519b-a1fd-4102-9f65-80bac2e780fb.PNG">
+
 
 
 
@@ -62,34 +63,41 @@ This project's Kimball Bus Matrix:
 
 List of Visualizations for each KPI:
 1. Bar Chart for Average annual ridership per station
-![KPI%20#1-%20Annual%20Ridership%20Top25.png](attachment:KPI%20#1-%20Annual%20Ridership%20Top25.png)
+<img width="542" alt="KPI #1- Annual Ridership Top25" src="https://user-images.githubusercontent.com/70614026/167229404-7339075f-3084-4dfd-b212-b4a1be19611d.png">
 
 2. Bar Chart - Compariosn of Average daily ridership per station based on weekdays vs Weekends
-![KPI%20#2%20-%20Average%20Weekdays%20Top%2025.png](attachment:KPI%20#2%20-%20Average%20Weekdays%20Top%2025.png)
-![KPI%20#2%20-%20Average%20Weekdays%20Top%2025.png](attachment:KPI%20#2%20-%20Average%20Weekdays%20Top%2025.png)
+<img width="545" alt="KPI #2 - Average Weekdays Top 25" src="https://user-images.githubusercontent.com/70614026/167229527-3713f00d-c657-4706-a8bc-d7a3f5b1c2ad.png">
+<img width="545" alt="KPI #2 - Average Weekends Top 25" src="https://user-images.githubusercontent.com/70614026/167229542-343be30f-2564-4d8b-baf7-39280e59a2ee.png">
+
 
 3. Packed bubble chart for Total number of subway stations by borough
-![KPI#%203%20-%20Subway%20Station%20by%20Borough.png](attachment:KPI#%203%20-%20Subway%20Station%20by%20Borough.png)
+<img width="249" alt="KPI# 3 - Subway Station by Borough" src="https://user-images.githubusercontent.com/70614026/167229567-5e0ec647-ab64-437b-a08a-4041fea2355e.png">
+
 
 4. Packed bubble chart for Total accidents/injuries case by category by borough in 2020
-![KPI#4%20-%20Incidents%20cases%20by%20Borough%20in%202020.png](attachment:KPI#4%20-%20Incidents%20cases%20by%20Borough%20in%202020.png)
+<img width="354" alt="KPI#4 - Incidents cases by Borough in 2020" src="https://user-images.githubusercontent.com/70614026/167229591-cbafa31c-1e19-476b-9e7b-a8883319dd59.png">
+
+
 
 5. Bar Chart for The number of subway lines per station
-![KPI#5%20-%20Subway%20Line%20per%20Station.png](attachment:KPI#5%20-%20Subway%20Line%20per%20Station.png)
+<img width="668" alt="KPI#5 - Subway Line per Station" src="https://user-images.githubusercontent.com/70614026/167229602-43b72f06-020f-412d-95a2-b2d164f5eb8a.png">
+
 
 BI Application Wireframe design:
-![image.png](attachment:image.png)
+![WireFrame](https://user-images.githubusercontent.com/70614026/167229669-6f0d17d9-27df-44b7-863e-4d5959b9ea4e.jpg)
 
 
 Picture of final Dashboard:
 
+
 ## Use correct file path here to show picture of Dashboard:
 
 Dashboard #1 
-![Dashboard%20#1.PNG](attachment:Dashboard%20#1.PNG)
+![Dashboard #1](https://user-images.githubusercontent.com/70614026/167229699-ddd2549f-4cfc-42e8-b70b-a431b09121c6.PNG)
 
 Dashboard #2
-![Dashboard%20#2.png](attachment:Dashboard%20#2.png)
+![Dashboard #2](https://user-images.githubusercontent.com/70614026/167229713-aded1cae-cb46-4e22-b3c0-6823a642980c.png)
+
 
 ### Deployment
 
