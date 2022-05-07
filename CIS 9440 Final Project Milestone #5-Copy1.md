@@ -1,4 +1,4 @@
-# Project Name here
+# NYC Subway Protective Platform Doors 
 - Author(s): Ying Chen, Jiawen Chen,Gexing Ding, Wanmei He
 - Date Created: 5/6/2022
 - Class: CIS 9440
